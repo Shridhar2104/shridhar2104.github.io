@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-chirpy
 
 url    : "https://shridhar2104.github.io"
 baseurl: "" # leave empty for user.github.io site
