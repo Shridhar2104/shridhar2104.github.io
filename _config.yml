@@ -1,4 +1,4 @@
-theme: jekyll-agency
+theme: jekyll-theme-slate
 
 url    : "https://shridhar2104.github.io"
 baseurl: "" # leave empty for user.github.io site
@@ -13,8 +13,6 @@ locale: "en-US"
 analytics:
   google: # Add your GA tag later (optional)
 
-collections:
-  portfolio:
 
 markdown: kramdown
 
